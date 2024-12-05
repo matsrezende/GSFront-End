@@ -1,0 +1,20 @@
+/* CSS compilado manualmente */
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #f5f5f5;
+}
+
+#sidebar {
+  width: 250px;
+  min-height: 100vh;
+  background-color: #f5f5f5;
+  padding: 20px;
+}
+
+header {
+  background-color: #e5d4ec;
+}
+
+footer {
+  background-color: #8e44ad;
+}
